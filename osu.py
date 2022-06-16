@@ -9,7 +9,6 @@ client_secret = os.environ['auth_token']
 API_URL = 'https://osu.ppy.sh/api/v2'
 TOKEN_URL = 'https://osu.ppy.sh/oauth/token'
 
-#Data del usuario
 
 def get_mods(mods):
     if mods != []:
