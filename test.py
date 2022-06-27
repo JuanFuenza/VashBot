@@ -6,3 +6,5 @@ db = TinyDB('db.json')
 
 
 
+def test():
+    pass
