@@ -3,8 +3,3 @@ from datetime import datetime
 
 osu_user = Query()
 db = TinyDB('db.json')
-
-
-
-def test():
-    pass
